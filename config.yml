@@ -1,0 +1,57 @@
+Groups:
+  list:
+    - Owner
+    - HeadAdmin
+    - Admin
+    - SRMOD
+    - MOD
+    - Helper
+    - PrepHeleper
+    - Donor1
+    - Donor2
+    - Donor3
+    - Member
+  Owner:
+    enable: true
+    name: 'Owner'
+    color: 'DARK_RED'
+  HeadAdmin:
+    enable: true
+    name: 'HeadADMIN'
+    color: 'RED'
+  Admin:
+    enable: true
+    name: 'ADMIN'
+    color: 'RED'
+  SRMOD:
+    enable: true
+    name: 'SRMOD'
+    color: 'GOLD'
+  MOD:
+    enable: true
+    name: 'MOD'
+    color: 'GOLD'
+  Helper:
+    enable: true
+    name: 'Helper'
+    color: 'GREEN'
+  PrepHelper:
+    enable: true
+    name: 'PrepHelper'
+    color: 'GREEN'
+  DONOR1:
+    enable: true
+    name: 'Donor1'
+    color: 'YELLOW'
+  DONOR2:
+    enable: true
+    name: 'Donor2'
+    color: 'YELLOW'
+  DONOR3:
+    enable: true
+    name: 'Donor3'
+    color: 'YELLOW'
+  Member:
+    enable: true
+    name: ''
+    color: 'GOLD'

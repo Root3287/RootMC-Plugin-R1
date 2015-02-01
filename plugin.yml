@@ -1,0 +1,35 @@
+name: RootMC Plugin
+version: Alpha 0.0.1
+description: A RootMC Plugin
+author: newtj599zzzbro
+main: com.rootmc.timothy.RootMC.main.Main
+depend: [TitleManager]
+commands:
+   trevor:
+   rainbows:
+   staff:
+   admin:
+   mod:
+   pink:
+   crash:
+   damage:
+   rmc:
+   start:
+   vanish:
+   jumper:
+   pb:
+permissions:
+  Owner:
+     description: owner
+  Admin:
+     description: admin
+  Mod:
+     description: moderator
+  Helper:
+     description: helper
+  Iron:
+     description: iron
+  Coal:
+     description: coal
+  Member:
+     description: member
